@@ -1,2 +1,2 @@
 # ssGitDemo
-This is my first Demo Project
+This is my first Github Demo Project
